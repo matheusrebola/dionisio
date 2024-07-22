@@ -1,4 +1,4 @@
-package br.org.diversao.dionisio;
+package dionisio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

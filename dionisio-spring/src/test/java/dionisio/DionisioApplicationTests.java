@@ -1,4 +1,4 @@
-package br.org.diversao.dionisio;
+package dionisio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

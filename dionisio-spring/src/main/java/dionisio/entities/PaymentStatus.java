@@ -1,4 +1,4 @@
-package br.org.diversao.dionisio.entities;
+package dionisio.entities;
 
 public enum PaymentStatus {
 
