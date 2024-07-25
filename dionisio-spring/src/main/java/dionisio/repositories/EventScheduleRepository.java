@@ -1,4 +1,4 @@
-package dionisio.repositorys;
+package dionisio.repositories;
 
 import java.util.UUID;
 

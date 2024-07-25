@@ -1,13 +1,13 @@
-package dionisio.repositorys;
+package dionisio.repositories;
 
 import java.util.UUID;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import dionisio.entities.Checkins;
+import dionisio.entities.TicketSales;
 
 @Repository
-public interface CheckinsRepository extends JpaRepository<Checkins, UUID> {
+public interface TicketSalesRepository extends JpaRepository<TicketSales, UUID>{
 
 }
